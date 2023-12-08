@@ -1,0 +1,15 @@
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/bin/Debug/net7.0/ex7b
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/bin/Debug/net7.0/ex7b.deps.json
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/bin/Debug/net7.0/ex7b.runtimeconfig.json
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/bin/Debug/net7.0/ex7b.dll
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/bin/Debug/net7.0/ex7b.pdb
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.csproj.AssemblyReference.cache
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.AssemblyInfoInputs.cache
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.AssemblyInfo.cs
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.csproj.CoreCompileInputs.cache
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.dll
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/refint/ex7b.dll
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.pdb
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ex7b.genruntimeconfig.cache
+/Users/quanghuyv.l/Projects/Lession 3/ex7b/obj/Debug/net7.0/ref/ex7b.dll
