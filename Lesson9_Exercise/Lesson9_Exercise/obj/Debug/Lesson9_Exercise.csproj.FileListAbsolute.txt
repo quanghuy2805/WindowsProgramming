@@ -1,0 +1,15 @@
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.csproj.AssemblyReference.cache
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.Form1.resources
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.Properties.Resources.resources
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.csproj.GenerateResource.cache
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.csproj.CoreCompileInputs.cache
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\Lesson9_Exercise.exe.config
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\Lesson9_Exercise.exe
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\Lesson9_Exercise.pdb
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\EntityFramework.dll
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\EntityFramework.xml
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.csproj.CopyComplete
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.exe
+D:\Programming\C#\C-Sharp Practice\C-sharp-Practice-HomeWork\Lesson9_Exercise\Lesson9_Exercise\obj\Debug\Lesson9_Exercise.pdb
